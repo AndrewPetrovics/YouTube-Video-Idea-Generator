@@ -1,4 +1,4 @@
-## Getting started
+## About
 
 This is demo code to show how to create a YouTube idea generator using AI and NextJS.
 
